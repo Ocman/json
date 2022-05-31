@@ -1,13 +1,17 @@
-{horror: 
-[
-{
-triller 
-{
-movies, 
-{
-fargo, 
-{
-vegetables & meet, 
-{
-turkey
-]}
+{ 
+  "preferences":
+    [
+      {
+        "movie:"horror"
+      },
+      {
+        "serial":"fargo"
+      },
+      {
+        "food":"vegetables & meet"
+      },
+      {
+        "country":"turkey"
+      }
+    ]
+}
